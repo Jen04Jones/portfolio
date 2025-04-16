@@ -1,0 +1,28 @@
+baseURL = "https://yourwebsite.github.io/"  # Replace with your actual GitHub Pages URL
+title = "The Legacy of Textile Mills"
+theme = "PaperMod"
+languageCode = "en-us"
+paginate = 5  # Number of posts per page
+enableGitInfo = true  # Tracks last modified date of files
+
+[params]
+author = "Jen Jones"
+description = "Exploring the rise and impact of textile mills."
+showReadingTime = true
+showToc = true  # Enables Table of Contents for posts
+defaultTheme = "light"  # Options: light/dark/auto
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Blog"
+url = "/blog/"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about/"
+weight = 3
