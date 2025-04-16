@@ -1,3 +1,6 @@
 [submodule "jj-site/content/themes/PaperMod"]
 	path = jj-site/content/themes/PaperMod
 	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "jj-site/themes/PaperMod"]
+	path = jj-site/themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
