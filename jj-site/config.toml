@@ -1,10 +1,16 @@
-baseURL = "http://localhost:1313/"
- # Replace with your actual GitHub Pages URL
+baseURL = "http://localhost:1313/" # Replace with your actual GitHub Pages URL
 
 title = "Jen M Jones"
 theme = "PaperMod"
 languageCode = "en-us"
 enableGitInfo = true  # Tracks last modified date of files
+
+# Raw Data AI April 25, 2025 Copilot helped debug
+[markup.goldmark.renderer]
+  unsafe = true
+
+# Suppress warnings related to partials AI April 25, 2025 Copilot helped debug
+ignoreLogs = ['warning-partial-superfluous-prefix']
 
 [pagination] 
 pagerSize = 5
@@ -17,13 +23,8 @@ showToc = true  # Enables Table of Contents for posts
 defaultTheme = "light"  # Options: light/dark/auto
 disableThemeToggle = true
 enableCover = true
-cover = "imgages/banner.jpg"
+cover = "images/banner.jpg" # Corrected typo in the folder name
 coverSize = "full"
-
-
-
-
-
 
 [[menu.main]]
 name = "Home"
@@ -45,8 +46,7 @@ name = "CV"
 url = "/CV/"
 weight = 4
 
-
 [[menu.main]]
-  name = "Research Projects"
-  url = "/research/"
-  weight = 5
+name = "Research Projects"
+url = "/research/"
+weight = 5
