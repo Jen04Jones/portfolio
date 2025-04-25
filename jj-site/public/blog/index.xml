@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blog on Jen M Jones</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Blog on Jen M Jones</description>
+    <generator>Hugo -- 0.146.5</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Apr 2025 20:54:55 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Piedmont Historical Preservation Society</title>
+      <link>http://localhost:1313/blog/my-first-post/</link>
+      <pubDate>Thu, 17 Apr 2025 20:54:55 -0400</pubDate>
+      <guid>http://localhost:1313/blog/my-first-post/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;I recently traveled to Piedmont, South Carolina to view a school notebook of
+a boy who worked in the mills. It is so difficult to find actual primary sources
+that speak from the child&amp;rsquo;s point of view. But when I arrived I found so much
+more. This is a group working towards opening a museum dedicated to the rich
+history of how the textile industry shaped their little town. When you first
+enter the research room you find yourself in a room packed with artifacts from
+the mill town in the early 20th century. There is just so much to see. The
+archive is only opened on Tuesdays but it is open for research. Not only are
+there amazing artifacts to view, but they are in the process of archiving the
+massive amount of documents from millworkers, and the mill. Not only is there
+work on the archive and museum but also a food bank,for locals in the former
+mill building. I intend to return of course the collection is offers so many
+directions on researching Textiles and how they impacted this small South Carolina
+town.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

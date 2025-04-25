@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Home on Jen M Jones</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on Jen M Jones</description>
+    <generator>Hugo -- 0.146.5</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Apr 2025 20:54:55 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Piedmont Historical Preservation Society</title>
+      <link>http://localhost:1313/blog/my-first-post/</link>
+      <pubDate>Thu, 17 Apr 2025 20:54:55 -0400</pubDate>
+      <guid>http://localhost:1313/blog/my-first-post/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;I recently traveled to Piedmont, South Carolina to view a school notebook of
+a boy who worked in the mills. It is so difficult to find actual primary sources
+that speak from the child&amp;rsquo;s point of view. But when I arrived I found so much
+more. This is a group working towards opening a museum dedicated to the rich
+history of how the textile industry shaped their little town. When you first
+enter the research room you find yourself in a room packed with artifacts from
+the mill town in the early 20th century. There is just so much to see. The
+archive is only opened on Tuesdays but it is open for research. Not only are
+there amazing artifacts to view, but they are in the process of archiving the
+massive amount of documents from millworkers, and the mill. Not only is there
+work on the archive and museum but also a food bank,for locals in the former
+mill building. I intend to return of course the collection is offers so many
+directions on researching Textiles and how they impacted this small South Carolina
+town.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h2 id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;
+&lt;p&gt;&lt;img alt=&#34;Jen M. Jones&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/Professional-Photo.jpg&#34;&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;strong&gt;About Me&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I am a &lt;a href=&#34;https://www.clemson.edu/cah/academics/history-and-geography/graduate/digital-history-phd/&#34;&gt;Digital History&lt;/a&gt; PhD Student at Clemson University specializing in Southern History from 1860 to 1930. My research focuses on textile mill culture and child labor, exploring the industrial transformations that shaped Upstate South Carolina and Western North Carolina communities. I currently work as a Metadata Specialist at &lt;a href=&#34;https://libraries.clemson.edu/&#34;&gt;Clemson Libraries&lt;/a&gt;, where I leverage digital history and metadata tools to preserve and make historical materials accessible.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CV</title>
+      <link>http://localhost:1313/cv/</link>
+      <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cv/</guid>
+      <description>Jen M Jones CV.</description>
+    </item>
+    <item>
+      <title>My Projects</title>
+      <link>http://localhost:1313/research/</link>
+      <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/</guid>
+      <description>Exploring the Textile Industry of the South.</description>
+    </item>
+  </channel>
+</rss>
