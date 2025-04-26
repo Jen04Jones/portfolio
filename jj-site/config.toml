@@ -1,11 +1,11 @@
-baseURL = "https://jenmjones.github.io/portfolio/"
+baseURL = "https://jenmjones.github.io/portfolio/jj-site"
 
- # Replaced my base URL actual GitHub Link
 
-title = "Jen M Jones"
+title = "Jen M. Jones Portfolio"
 theme = "PaperMod"
 languageCode = "en-us"
-enableGitInfo = true  # Tracks last modified date of files
+enableGitInfo = true 
+
 
 # Raw Data AI April 25, 2025 Copilot helped debug
 [markup.goldmark.renderer]
