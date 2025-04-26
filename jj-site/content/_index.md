@@ -1,10 +1,11 @@
 ---
 title: "Home"
+
 description: "Welcome to my portfolio"
 date: 2025-04-18
 ---
 
-{{< figure src="/images/banner.png"alt="Banner" >}}
+{{< figure src="/images/banner.png" alt="Banner" >}}
 
 ### **Welcome!**
 

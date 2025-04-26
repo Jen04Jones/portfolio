@@ -1,25 +1,20 @@
-baseURL = "https://jenmjones.github.io/portfolio/jj-site"
-
-
+baseURL = "https://jenmjones.com/"
 title = "Jen M. Jones Portfolio"
 theme = "PaperMod"
 languageCode = "en-us"
-enableGitInfo = true 
-
 
 # Raw Data AI April 25, 2025 Copilot helped debug
 [markup.goldmark.renderer]
   unsafe = true
 
 #Clean URL AI April 25, 2025 Copilot help to deploy
-relativeURLs = true
+relativeURLs = false
 
 #To Handle pretty URLS AI April 25, 2025 Coplit
-uglyURLs = true
-
+uglyURLs = false
 
 # Suppress warnings related to partials AI April 25, 2025 Copilot helped debug
-ignoreLogs = ['warning-partial-superfluous-prefix']
+ignoreLogs = ["warning-partial-superfluous-prefix"]
 
 [pagination] 
 pagerSize = 5
@@ -44,20 +39,20 @@ weight = 1
 
 [[menu.main]]
 name = "Blog"
-url = "https://jenmjones.github.io/portfolio/jj-site/blog.html"
+url = "/blog/"
 weight = 2
 
 [[menu.main]]
 name = "About"
-url = "https://jenmjones.github.io/portfolio/jj-site/about.html"
+url = "/about/"
 weight = 3
 
 [[menu.main]]
 name = "CV"
-url = "https://jenmjones.github.io/portfolio/jj-site/CV.html"
+url = "/cv/"
 weight = 4
 
 [[menu.main]]
-name = "Research Projects"
-url = "https://jenmjones.github.io/portfolio/jj-site/research.html"
+name = "Research"
+url = "/research/"
 weight = 5

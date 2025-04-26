@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Home on Jen M Jones</title>
-    <link>http://jenmjones.com/</link>
-    <description>Recent content in Home on Jen M Jones</description>
+    <title>Home on Jen M. Jones Portfolio</title>
+    <link>https://jenmjones.com/</link>
+    <description>Recent content in Home on Jen M. Jones Portfolio</description>
     <generator>Hugo -- 0.146.5</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Apr 2025 16:37:42 -0400</lastBuildDate>
-    <atom:link href="http://jenmjones.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Apr 2025 20:54:55 -0400</lastBuildDate>
+    <atom:link href="https://jenmjones.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Piedmont Historical Preservation Society</title>
-      <link>http://jenmjones.com/blog/my-first-post/</link>
+      <link>https://jenmjones.com/blog/my-first-post/</link>
       <pubDate>Thu, 17 Apr 2025 20:54:55 -0400</pubDate>
-      <guid>http://jenmjones.com/blog/my-first-post/</guid>
+      <guid>https://jenmjones.com/blog/my-first-post/</guid>
       <description>&lt;hr&gt;
 &lt;p&gt;I recently traveled to Piedmont, South Carolina to view a school notebook of
 a boy who worked in the mills. It is so difficult to find actual primary sources
@@ -31,27 +31,25 @@ town.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About Me</title>
-      <link>http://jenmjones.com/about/</link>
+      <link>https://jenmjones.com/about/</link>
       <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://jenmjones.com/about/</guid>
+      <guid>https://jenmjones.com/about/</guid>
       <description>&lt;h2 id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&#34;Jen M. Jones&#34; loading=&#34;lazy&#34; src=&#34;http://jenmjones.com/images/Professional-Photo.jpg&#34;&gt;&lt;/p&gt;
-&lt;img src=&#34;http://jenmjones.com/images/Professional-Photo.jpg&#34; alt=&#34;Jen M. Jones&#34; style=&#34;width:150px; height:auto;&#34;&gt;
-&lt;p&gt;&lt;strong&gt;About Me&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Jen M. Jones&#34; loading=&#34;lazy&#34; src=&#34;https://jenmjones.com/images/Professional-Photo.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;I am a &lt;a href=&#34;https://www.clemson.edu/cah/academics/history-and-geography/graduate/digital-history-phd/&#34;&gt;Digital History&lt;/a&gt; PhD Student at Clemson University specializing in Southern History from 1860 to 1930. My research focuses on textile mill culture and child labor, exploring the industrial transformations that shaped Upstate South Carolina and Western North Carolina communities. I currently work as a Metadata Specialist at &lt;a href=&#34;https://libraries.clemson.edu/&#34;&gt;Clemson Libraries&lt;/a&gt;, where I leverage digital history and metadata tools to preserve and make historical materials accessible.&lt;/p&gt;</description>
     </item>
     <item>
       <title>CV</title>
-      <link>http://jenmjones.com/cv/</link>
+      <link>https://jenmjones.com/cv/</link>
       <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://jenmjones.com/cv/</guid>
+      <guid>https://jenmjones.com/cv/</guid>
       <description>Jen M Jones CV.</description>
     </item>
     <item>
       <title>My Projects</title>
-      <link>http://jenmjones.com/research/</link>
+      <link>https://jenmjones.com/research/</link>
       <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://jenmjones.com/research/</guid>
+      <guid>https://jenmjones.com/research/</guid>
       <description>Exploring the Textile Industry of the South.</description>
     </item>
   </channel>

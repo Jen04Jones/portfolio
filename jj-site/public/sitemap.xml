@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://jenmjones.com/blog/my-first-post/</loc>
-    <lastmod>2025-04-25T16:37:42-04:00</lastmod>
+    <loc>https://jenmjones.com/blog/</loc>
+    <lastmod>2025-04-17T20:54:55-04:00</lastmod>
   </url><url>
-    <loc>http://jenmjones.com/</loc>
-    <lastmod>2025-04-25T16:37:42-04:00</lastmod>
+    <loc>https://jenmjones.com/blog/my-first-post/</loc>
+    <lastmod>2025-04-17T20:54:55-04:00</lastmod>
   </url><url>
-    <loc>http://jenmjones.com/about/</loc>
-    <lastmod>2025-04-25T16:37:42-04:00</lastmod>
+    <loc>https://jenmjones.com/</loc>
+    <lastmod>2025-04-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://jenmjones.com/cv/</loc>
-    <lastmod>2025-04-25T16:37:42-04:00</lastmod>
+    <loc>https://jenmjones.com/about/</loc>
+    <lastmod>2025-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://jenmjones.com/research/</loc>
-    <lastmod>2025-04-25T16:37:42-04:00</lastmod>
+    <loc>https://jenmjones.com/cv/</loc>
+    <lastmod>2025-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://jenmjones.com/blog/</loc>
-    <lastmod>2025-04-25T16:37:42-04:00</lastmod>
+    <loc>https://jenmjones.com/research/</loc>
+    <lastmod>2025-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://jenmjones.com/categories/</loc>
+    <loc>https://jenmjones.com/categories/</loc>
   </url><url>
-    <loc>http://jenmjones.com/tags/</loc>
+    <loc>https://jenmjones.com/tags/</loc>
   </url>
 </urlset>
