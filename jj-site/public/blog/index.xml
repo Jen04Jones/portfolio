@@ -2,17 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Blog on Jen M Jones</title>
-    <link>http://localhost:1313/blog/</link>
+    <link>http://jenmjones.com/blog/</link>
     <description>Recent content in Blog on Jen M Jones</description>
     <generator>Hugo -- 0.146.5</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Apr 2025 20:54:55 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://jenmjones.com/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Piedmont Historical Preservation Society</title>
-      <link>http://localhost:1313/blog/my-first-post/</link>
+      <link>http://jenmjones.com/blog/my-first-post/</link>
       <pubDate>Thu, 17 Apr 2025 20:54:55 -0400</pubDate>
-      <guid>http://localhost:1313/blog/my-first-post/</guid>
+      <guid>http://jenmjones.com/blog/my-first-post/</guid>
       <description>&lt;hr&gt;
 &lt;p&gt;I recently traveled to Piedmont, South Carolina to view a school notebook of
 a boy who worked in the mills. It is so difficult to find actual primary sources

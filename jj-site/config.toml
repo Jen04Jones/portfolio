@@ -1,4 +1,6 @@
-baseURL = "http://jenmjones.com/" # Replace with your actual GitHub Pages URL
+baseURL = "https://jenmjones.github.io/portfolio/"
+
+ # Replaced my base URL actual GitHub Link
 
 title = "Jen M Jones"
 theme = "PaperMod"
@@ -8,6 +10,13 @@ enableGitInfo = true  # Tracks last modified date of files
 # Raw Data AI April 25, 2025 Copilot helped debug
 [markup.goldmark.renderer]
   unsafe = true
+
+#Clean URL AI April 25, 2025 Copilot help to deploy
+relativeURLs = true
+
+#To Handle pretty URLS AI April 25, 2025 Coplit
+uglyURLs = true
+
 
 # Suppress warnings related to partials AI April 25, 2025 Copilot helped debug
 ignoreLogs = ['warning-partial-superfluous-prefix']
@@ -26,6 +35,8 @@ enableCover = true
 cover = "images/banner.jpg" # Corrected typo in the folder name
 coverSize = "full"
 
+#My menu
+
 [[menu.main]]
 name = "Home"
 url = "/"
@@ -33,20 +44,20 @@ weight = 1
 
 [[menu.main]]
 name = "Blog"
-url = "/blog/"
+url = "/blog.html"
 weight = 2
 
 [[menu.main]]
 name = "About"
-url = "/about/"
+url = "/about.html"
 weight = 3
 
 [[menu.main]]
 name = "CV"
-url = "/CV/"
+url = "/cv.html"
 weight = 4
 
 [[menu.main]]
 name = "Research Projects"
-url = "/research/"
+url = "/research.html"
 weight = 5
